@@ -1,0 +1,39 @@
+:root {
+  --black: #111 !important;
+  --grey: #525252 !important;
+  --white: white !important;
+  --coral: coral !important;
+  --lightcoral: lightcoral !important;
+}
+
+body {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.text-black {
+  color: var(--black) !important;
+}
+
+.text-grey {
+  color: var(--grey) !important;
+}
+
+.text-white {
+  color: var(--white) !important;
+}
+
+.text-90 {
+  font-size: 90%;
+}
+
+.bg-white {
+  background-color: var(--white) !important;
+}
+
+.bg-coral {
+  background-color: var(--coral) !important;
+}
+
+.bd-lightcoral {
+  border-color: var(--lightcoral) !important;
+}
